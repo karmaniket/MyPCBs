@@ -6,7 +6,7 @@
       <img width="auto" src="ldr sensor.png">
     </td>
     <td>
-      <h3 align="center">fLip flop Led</h3>
+      <h3 align="center">flip flop Led</h3>
       <img width="auto" src="flip flop_av.png">
     </td>
   </tr>
